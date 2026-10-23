@@ -35,6 +35,6 @@ configs/
 └── custom.cfg
 ```
 
-`Hell-Let-Loose-Profile-Manager` · Updated: 2026-10-07
+`Hell-Let-Loose-Profile-Manager` · Updated: 2026-10-24
 
 **Tags:** `hell-let-loose` `profile-manager` `ww2` `tactical` `fps`
